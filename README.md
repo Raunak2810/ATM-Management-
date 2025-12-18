@@ -38,8 +38,9 @@ The project is built using **Object-Oriented Programming (OOP)** concepts like *
 ## 📂 Project Structure
 ATM-Management-System/
 │
-├── atm.cpp // Main source code file
-├── README.md // Project documentation
+├── atm.cpp        // Main source code
+├── README.md      // Project documentation
+
 
 🔑 Default Login Details
 
