@@ -1,10 +1,4 @@
-Got it 👍
-Below is the **FULL & COMPLETE `README.md` code** for your **ATM Management System in C++**.
-You can **copy–paste this directly** into a file named **`README.md`** — no edits needed.
 
----
-
-```md
 # 🏧 ATM Management System (C++)
 
 ## 📌 Project Overview
