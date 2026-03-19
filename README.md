@@ -42,8 +42,8 @@ and functions.
 
 ATM-Management-System/
 │
-├── atm.cpp        // Main source code
-├── README.md      // Project documentation
+├── atm_management.cpp        
+├── README.md      
 
 ````
 
